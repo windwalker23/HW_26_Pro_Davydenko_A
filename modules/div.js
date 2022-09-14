@@ -1,0 +1,1 @@
+export const div = (a, b) => console.log(a / b);

@@ -1,0 +1,1 @@
+export const mult = (a, b) => console.log(a * b);
